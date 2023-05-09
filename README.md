@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Advanced SQL, Python**
 
-- 👯 I’m looking to collaborate on **NeuroScience Project**
-
 - 📝 I regularly write articles on [https://medium.com/@Harshodai](https://medium.com/@Harshodai)
 
 - 📫 How to reach me **kharshaengineer@gmail.com**
