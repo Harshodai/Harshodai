@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshodai Kolluru</h1>
 <h3 align="center">A Passionate and Enthusiastic Engineer from India willing to impact the world with my skills</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Apache Spark, Machine Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@Harshodai](https://medium.com/@Harshodai)
 
